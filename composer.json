@@ -1,0 +1,18 @@
+{
+  "name": "nolikzero/petshop",
+  "description": "Petshop app",
+  "type": "app",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Nurlan Ibraev",
+      "email": "nurlanking@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
+}
